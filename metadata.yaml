@@ -11,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26785
     wikipedia: http://en.wikipedia.org/wiki/The_Conference_Board
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24868#The-Cost-of-Living-Among-Wage-EarnersNumber-22-November-1919
 gutenberg_bookshelf: United States
 gutenberg_issued: '2008-03-18'
 gutenberg_type: Text
