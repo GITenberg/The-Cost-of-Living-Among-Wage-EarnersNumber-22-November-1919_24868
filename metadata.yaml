@@ -1,0 +1,28 @@
+_repo: The-Cost-of-Living-Among-Wage-EarnersNumber-22-November-1919_24868
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: National Industrial Conference Board
+    alias: Board, National Industrial Conference
+    gutenberg_agent_id: '26785'
+    url: http://www.gutenberg.org/2009/agents/26785
+    wikipedia: http://en.wikipedia.org/wiki/The_Conference_Board
+description: ''
+gutenberg_bookshelf: United States
+gutenberg_issued: '2008-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24868'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HD'
+- !lcsh 'Cost and standard of living -- Massachusetts -- Fall River'
+title: "The Cost of Living Among Wage-Earners\r\nFall River, Massachusetts, October,\
+  \ 1919, Research Report Number 22, November, 1919"
+url: http://www.gutenberg.org/ebooks/24868
